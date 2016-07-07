@@ -1,0 +1,50 @@
+body
+{
+
+-webkit-touch-callout: none;
+-webkit-user-select: none;
+ user-select: none;
+ font-family: Tahoma;
+}
+
+.clear-box
+{
+	clear:both;
+	 overflow: hidden;
+	margin: 0;
+}
+
+#items div
+{
+	display:block !important; 
+	float:none !important;
+}
+#items div ul
+{
+	display:block !important; 
+}
+
+#featured div
+{
+	display:block !important;
+	float:none !important;
+	margin-bottom:3%;
+}
+.featimg
+{
+	width:100%;
+}
+.featuredprice
+{
+	float:none;
+}
+
+#gallery div
+{
+	display:block;
+	float:none;
+}
+#gallery img
+{
+	width:100%;
+}

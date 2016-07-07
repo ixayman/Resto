@@ -1,0 +1,174 @@
+body
+{
+
+-webkit-touch-callout: none;
+-webkit-user-select: none;
+ user-select: none;
+ font-family:Arial;
+}
+
+.clear-box
+{
+	clear:both;
+	 overflow: hidden;
+	margin: 0;
+}
+
+
+header
+{
+	height:10%;
+}
+header div
+{
+	float:left;
+	width:50%;
+}
+header img
+{
+	padding-left:20%;
+}
+header ul
+{
+	margin:0;
+}
+header ul li
+{
+	margin:2%;
+	display:inline-block;
+	text-decoration:none;
+}
+header a
+{
+	text-decoration: none;
+	color: #333;
+}
+
+#topimg
+{
+	margin:0;
+	width:100%;
+	height:40%;
+}
+#topimg img
+{
+	width:100%;
+	height:100%;
+	margin:0;
+}
+#banner
+{
+	height:5%;
+	width:100%;
+	margin:0;
+}
+#banner img
+{
+	display:block;
+	margin:0 auto;
+	height:100%;
+	
+}
+
+#items div
+{
+	display: inline-block;
+}
+#items div ul
+{
+	display:inline-block;
+	list-style:none;
+}
+#items div ul li
+{
+	text-align:center;
+}
+.sub
+{
+	margin-bottom:20px;
+	margin-top: 0;
+	color:rgb(105, 105, 105);
+}
+
+div form
+{
+	height:5%;
+	text-align:center;
+}
+div form select
+{
+	height:100%;
+}
+
+#featured
+{
+	width:100%;
+	
+}
+
+#featured div
+{
+	display:inline-block;
+	margin:1%;
+}
+.featimg
+{
+	display:block;
+	margin: 0 auto;
+}
+.featuredprice
+{
+	float: right;
+}
+
+#gallery
+{
+	width:100%;
+	margin:0 auto;
+	
+}
+
+#gallery div
+{
+	display:inline-block;
+	float:left;
+}
+ footer 
+ {
+ 	margin-top:10%;
+ 	background: #3a3a3a;
+ 	color:white;
+ 	width:100%;
+ }
+ footer div
+ {
+ 	display:inline-block;
+ 	width:24%;
+ 	
+ }
+ footer div ul
+ {
+ 	list-style: none;
+ 	display: inline-block;
+ }
+.bold
+{
+	font-weight: bold;
+}
+footer ul a{
+	text-decoration:none;
+	color:black;
+}
+
+.title
+{
+	text-decoration:underline;
+	font-style:italic;
+	font-weight:bold;
+	color:#333333;
+	margin-top:10%;
+	margin-bottom:2%;
+	font-family:sans-serif;
+	font-size:20px;
+}
+
